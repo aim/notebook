@@ -1,0 +1,11 @@
+{
+  "root": true,
+  "env": {
+    "browser": true
+  },
+  "extends": ["eslint:recommended", "standard"],
+  "rules": {
+    "quotes": "off",
+    "space-before-function-paren": "off"
+  }
+}
